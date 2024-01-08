@@ -1,6 +1,6 @@
 # Selenium Testing Project
 
-![Java](https://img.shields.io/badge/Java-8-blue?logo=java)
+![Java](https://img.shields.io/badge/Java-21-blue?logo=java)
 ![Selenium](https://img.shields.io/badge/Selenium-3.141.59-green?logo=selenium)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-orange?logo=github)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue?logo=apache)
@@ -9,7 +9,7 @@ This project demonstrates automated testing using Selenium for a hotel booking w
 
 ## Prerequisites
 
-- Java 8
+- Java 21
 - Selenium WebDriver
 - ChromeDriver (make sure it's compatible with your Chrome browser version)
 
